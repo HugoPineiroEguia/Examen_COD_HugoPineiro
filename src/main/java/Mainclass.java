@@ -19,7 +19,6 @@ public class Mainclass {
         });
 
         gateway.onDisconnect().block();
-        //feature acabdo
     }
 }
 
@@ -29,3 +28,6 @@ public class Mainclass {
 /*Para hacer el -squash primero trabajo en la rama feature, haciendo los cambios y commits necesarios.
 Una vez acabado hago lo uno mediante un merge squash a la rama master. */
 
+
+/*La idea de este codigo es crear un bot para discord que cuando lea que has escrito"!ping" te devuelva un mensaje
+en el que aparezca "pong!"*/
