@@ -21,18 +21,3 @@ public class Mainclass {
         gateway.onDisconnect().block();
     }
 }
-
-//TOKEN: d1447ce73859ba6b39bb1b7a213ce2e99bd330c697c8868d9f20a8c0a3714e1b
-//Este token fue conseguido a través del "Developer Portal", creando una nueva aplicacion. Esta genera un token.
-//Para usar esta API creamos un proyecto en con Gradle y desde "Gradle.build" implementamos la librería.
-/*Para hacer el -squash primero trabajo en la rama feature, haciendo los cambios y commits necesarios.
-Una vez acabado hago lo uno mediante un merge squash a la rama master. */
-
-
-/*La idea de este codigo es crear un bot para discord que cuando lea que has escrito"!ping" te devuelva un mensaje
-en el que aparezca "pong!"*/
-
-
-
-/*La idea de este codigo es crear un bot para discord que cuando lea que has escrito"!ping" te devuelva un mensaje
-en el que aparezca "pong!"*/
